@@ -6,13 +6,14 @@
 	height: 100%;
 	overflow-y: hidden;
 	background: #415062;
+	margin-top: 5px;
 }
 
 /*Main Content*/
 #content-wrapper{
 	width: 100%;
 	position: absolute;
-	padding: 15px;
+	padding: 5px;
 }
 /*Changing sidebar width*/
 #wrapper.menuDisplayed #sidebar-wrapper{
